@@ -6,7 +6,7 @@
   </h1>
  <h1 align="center">
   <br>
-  <a href="https://github.com/ahmadchen/"><img src="/screen.PNG" alt="Cracking"></a>
+  <a href="https://github.com/ahmadchen/"><img src="./screen.png" alt="Cracking"></a>
   </br>
 </h1>
 
